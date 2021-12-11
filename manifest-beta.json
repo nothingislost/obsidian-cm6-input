@@ -1,0 +1,10 @@
+{
+  "id": "obsidian-cm6-input",
+  "name": "CM6 Input",
+  "version": "0.0.1",
+  "minAppVersion": "0.13.8",
+  "description": "This is an experimental input plugin for CM6. Use with caution as it is very alpha.",
+  "author": "NothingIsLost",
+  "authorUrl": "https://github.com/nothingislost",
+  "isDesktopOnly": true
+}
